@@ -7,7 +7,7 @@ A função calc() no CSS é uma ferramenta poderosa que permite realizar cálcul
 
 Sintaxe básica
 
-A função calc() segue uma sintaxe simples:
+A função calc() segue uma sintaxe simples:.
 width: calc(100% - 20px);
 
 width: calc(100% - 20px);
